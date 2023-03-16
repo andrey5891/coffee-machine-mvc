@@ -7,6 +7,7 @@ public class CoffeeMachine {
     //fourth
     //five
     //six
+    //seven
     public static void main(String[] args) {
         new CoffeeMachineService().start();
     }
